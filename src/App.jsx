@@ -162,7 +162,7 @@ class App extends Component{
       <div className='wrapper'>
         <h2>25 + 5 Clock</h2>
         <div className='break-session-length'>
-          <div>
+          <div >
             <h3 id='break-label'>Break Length</h3>
             <div>
               <button id='break-increment' onClick={this.handleBreakIncrease}>Increase</button>
