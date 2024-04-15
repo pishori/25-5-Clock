@@ -1,6 +1,7 @@
 body {
   background-color: #36929f;
   font-size: 44px
+  overflow: hidden
 }
 
 .wrapper {
